@@ -5,7 +5,7 @@
 - It uses the Geocoding API to convert location names into coordinates, which are then used to retrieve weather information such as temperature, 
 conditions (sunny/cloudy), humidity, and wind speed.
 
-<img src="./WeatherApp/screenshot_15.png">
+<img src="Screenshot_15.png">
 
 # Features
 
